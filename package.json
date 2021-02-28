@@ -1,0 +1,19 @@
+{
+  "name": "oscilloscope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "browerslist": [
+    "last 1 Chrome version"
+  ],
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
